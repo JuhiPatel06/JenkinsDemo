@@ -9,6 +9,6 @@ System.out.println("This demo is for rebase from intellij");
 
     }
     void hello(){
-
+System.out.println("This demo is for rebase from intellij");
     }
 }
